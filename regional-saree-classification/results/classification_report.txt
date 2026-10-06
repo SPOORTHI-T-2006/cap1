@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+    assamese     1.0000    0.9655    0.9825        29
+       coorg     0.9655    0.9655    0.9655        29
+    gujarati     0.9655    0.9655    0.9655        29
+  maharastra     0.9667    1.0000    0.9831        29
+
+    accuracy                         0.9741       116
+   macro avg     0.9744    0.9741    0.9741       116
+weighted avg     0.9744    0.9741    0.9741       116
